@@ -1,0 +1,19 @@
+* {
+    color: white;
+}
+
+body {
+    background-color: purple ;
+}
+
+p {
+    color: gold !important;
+    font-size: 20px;
+    text-align: justify;
+}
+
+h1 {
+    color: orangered;
+    text-align: center;
+}
+

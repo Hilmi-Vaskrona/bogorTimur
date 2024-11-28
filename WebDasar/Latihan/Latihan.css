@@ -1,0 +1,22 @@
+.kotak {
+    width: 100px;
+    height: 100px;
+    margin: 30px;
+    
+}
+
+.biru {
+    background-color: blue;
+}
+
+.oren {
+    background-color: orange;
+}
+
+.merah {
+    background-color: red;
+}
+
+.abu-abu {
+    background-color: gray;
+}

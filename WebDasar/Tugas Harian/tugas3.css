@@ -1,0 +1,24 @@
+.kotak {
+    width: 100px;
+    height: 100px;
+}
+
+.biru {
+    background-color: blue;
+    margin-top: 30px;
+}
+
+.merah {
+    background-color: red;
+    margin-right: 15px;
+}
+
+.hijau {
+    background-color: green;
+    margin-bottom: 50px;
+}
+
+.kuning {
+    background-color: yellow;
+    margin-left: 5px;
+}

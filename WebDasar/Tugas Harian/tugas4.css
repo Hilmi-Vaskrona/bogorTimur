@@ -1,0 +1,13 @@
+.hijau {
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    padding: 15px;
+}
+
+.merah {
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    margin-top: 30px;
+}

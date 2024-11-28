@@ -1,0 +1,21 @@
+.kotak {
+    width: 100px;
+    height: 100px;
+    margin: 30px;
+}
+
+.emas {
+    background-color: gold;
+}
+
+.silver {
+    background-color: silver;
+}
+
+.birulangit {
+    background-color: skyblue;
+}
+
+#circle {
+    border-radius: 50%;
+}
